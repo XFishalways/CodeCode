@@ -1,3 +1,5 @@
 .idea/
 leetcode/editor/cn/doc/solution
 CMakeLists.txt
+cmake-build-debug
+
