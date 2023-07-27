@@ -1,4 +1,7 @@
-## 两数之和
+## Two Sum
+
+
+Given an integer array `nums` and an integer `target`, please find two integers in the array that sum up to the target value and return their array indices.
 
 ### 三种map
 - std::unordered_map 底层实现为哈希表
