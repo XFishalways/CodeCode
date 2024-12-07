@@ -1,1 +1,3 @@
-# LeetCode
+# CodeCode
+
+Preparing for essentials
